@@ -16,4 +16,5 @@ Sus capacidades se extienden a consumir recursos de cualquier punto final de API
 
 Proyecto hecho en HTML, CSS y JavaScript vanilla que permite visualizar elementos JSON y XML escritos a mano u obtenidos desde un recurso (API REST, SOAP, archivo en servidor...).
 
-Puedes acceder a este proyecto desde mi [github.io](https://ajax-16.github.io/)
+> [!NOTE]  
+> Puedes acceder a este proyecto desde mi [github.io](https://ajax-16.github.io/)
