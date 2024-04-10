@@ -1,6 +1,6 @@
-## Proyectos ✍️
+# Proyectos ✍️
 
-- ## [NueDB 🐒🔷](https://github.com/Ajax-16/nuedb-core) 
+- ### [NueDB 🐒🔵](https://github.com/Ajax-16/nuedb-core) 
 
 ![](./nuedb_banner.jpg) 
 
